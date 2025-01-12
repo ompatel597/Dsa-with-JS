@@ -36,6 +36,7 @@ class Stack {
   }
 
   printStack() {
+    
     let str = "";
 
     for (let i = 0; i < this.stack.length; i++) {
